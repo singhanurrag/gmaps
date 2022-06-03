@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gmaps/static/css/main.2010b369.css",
+    "main.js": "/gmaps/static/js/main.a950544c.js",
+    "static/js/787.3c72b95a.chunk.js": "/gmaps/static/js/787.3c72b95a.chunk.js",
+    "static/media/img1.PNG": "/gmaps/static/media/img1.57695d557e0ca086f3b1.PNG",
+    "index.html": "/gmaps/index.html",
+    "main.2010b369.css.map": "/gmaps/static/css/main.2010b369.css.map",
+    "main.a950544c.js.map": "/gmaps/static/js/main.a950544c.js.map",
+    "787.3c72b95a.chunk.js.map": "/gmaps/static/js/787.3c72b95a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2010b369.css",
+    "static/js/main.a950544c.js"
+  ]
+}
