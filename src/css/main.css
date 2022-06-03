@@ -1,0 +1,123 @@
+.div1{
+    height: 100%;
+    width: 50%;
+    margin-left: 156px;
+}
+.div2{
+    height: 100%;
+    width: 50%;
+}
+.new{
+    display: flex;
+}
+input[type=text] {
+        width: 228px;
+        height: 54px;
+        border: None;
+        background-color: white;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: 600;
+        color: grey;
+        outline: none;
+    }
+.mm{
+        display: flex;
+        width: 272px;
+        height: 56px;
+        border: None;
+        background-color: white;
+        border-radius: 5px;
+        font-size: 20px;
+        padding-left: 12px;
+        font-weight: 600;
+        color: grey;
+}
+.mm:focus{
+    border: 3px solid rgb(176, 68, 176);
+}
+bb{
+    padding-top: 14px;
+    padding-right: 15px;
+}
+.heading{
+    background-color: #e7eff7;
+    font-size: large;
+    padding-top: 33px;
+    color: blue;
+}
+.box1{
+    padding-top: 87px;
+}
+.box2{
+    padding-top: 49px;
+
+}
+.top{
+    display: flex;
+}
+button{
+    margin-left: 77px;
+    margin-top: 202px;
+    height: 62px;
+    width: 141px;
+    background-color: rgb(54, 54, 173);
+    border-radius: 50px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: medium;
+}
+p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.square{
+    width:560px;
+    height: 511px;
+    margin-right: 104px;
+    margin-top: 33px;
+    margin-bottom: 102px;
+}
+.div100{
+    margin-top: 49px;
+    height: 155px;
+    width: 490px;
+}
+.inn1{
+    height: 78px;
+    display: flex;
+    background-color: white;
+    border: 1px light black;
+    border-bottom: hidden;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.inn10{
+    padding-left: 26px;
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: large;
+}
+.inn100{
+    color: rgb(26, 141, 235);
+    font-size: x-large;
+    padding-right: 25px;
+    padding-top: 23px;
+    margin-left: 260px;
+    padding-bottom: 94px;
+    font-weight: 600;
+}
+.inn2{
+    height: 60px;
+    padding-left: 27px;
+    padding-right: 37px;
+    padding-top: 33px;
+    background-color: #dfecf8;;
+    border-top: hidden;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+ 
